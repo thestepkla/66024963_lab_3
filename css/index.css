@@ -1,0 +1,125 @@
+.width-body{
+    width: 98dvw;
+}
+
+.width-main{
+    width: 80%; 
+}
+
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table-class {
+    font-family: 'Kanit', sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    
+    
+    .td-table {
+        border: 1px solid #c7c6c6;
+        padding: 8px;
+    }
+    .th-table{
+        border: 1px solid #cfcfcf;
+        padding: 8px;
+    }
+
+    .table-row:hover{
+        background-color: #f7f4f4;
+    }
+ 
+}
+
+/* font */
+p{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.font-md{
+    font-size: 20px;
+}
+.font-xl{
+    font-size: 36px;
+}
+
+
+.text-left{
+    text-align: left;
+}
+.text-center{
+    text-align: center;
+}
+
+.text-semibold{
+    font-weight: 400;
+}
+.text-bold{
+    font-weight: 700;
+}
+
+.font-name-kanit{
+    font-family: 'Kanit', sans-serif;
+}
+
+/* box */
+.round-md{
+    border-radius: 4px;
+}
+.round-xl{
+    border-radius: 8px;
+}
+
+/* box */
+.w-10{
+    display: block;
+    width: 10%;
+}
+.w-20{
+    display: block;
+    width: 20%;
+}
+.w-30{
+    display: block;
+    width: 30%;
+}
+.w-40{
+    display: block;
+    width: 40%;
+}
+.w-50{
+    display: block;
+    width: 50%;
+}
+.w-60{
+    display: block;
+    width: 60%;
+}
+.w-70{
+    display: block;
+    width: 70%;
+}
+.w-80{
+    display: block;
+    width: 80%;
+}
+.w-90{
+    display: block;
+    width: 90%;
+}
+.w-100{
+    display: block;
+    width: 100%;
+}
+
+.bg-headtable{
+    background-color: #f1f1f1;
+}
+
+/* image resposive */
+.image-resposive{
+    max-width: 100%;
+    height: auto;
+}

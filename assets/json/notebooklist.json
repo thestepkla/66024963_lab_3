@@ -1,0 +1,101 @@
+{
+    "timestamp_update": "2023-11-20 18:49:00",
+    "data":[
+            {
+                "notebook_name": "Lenovo IdeaPad Gaming 3 15ACH6-82K201YETA",
+                "cpu":"AMD Ryzen 5 5600H",
+                "gpu":"GeForce RTX 3050 Ti",
+                "ram":"8 GB DDR4",
+                "price":25990,
+                "image":"https://notebookspec.com/resize/200x150//storage/notebook/12311-notebook_11893_Ideapad%20gaming%2015ach6-c.jpg"
+            },
+            {
+                "notebook_name": "MSI Katana 17 B13VEK-889TH",
+                "cpu":"Intel Core i7-13620H",
+                "gpu":"GeForce RTX 4050",
+                "ram":"16 GB DDR5",
+                "price":39900,
+                "image":"https://notebookspec.com/resize/200x150//storage/notebook/13158-c.jpg"
+            },
+            {
+                "notebook_name": "MSI Stealth 16 Studio A13VG-044TH",
+                "cpu":"Intel Core i9-13900H",
+                "gpu":"GeForce RTX 4070",
+                "ram":"32 GB DDR5",
+                "price":79900,
+                "image":"https://notebookspec.com/resize/200x150//storage/notebook/13158-c.jpg"
+            },
+            {
+                "notebook_name": "HP Victus Gaming 15-fb1010AX",
+                "cpu":"AMD Ryzen 5 7535HS",
+                "gpu":"GeForce RTX 2050",
+                "ram":"16 GB DDR5",
+                "price":22990,
+                "image":"https://notebookspec.com/resize/200x150//storage/notebook/13153-c.jpg"
+            },
+            {
+                "notebook_name": "MSI Bravo 15 B7ED-020TH",
+                "cpu":"AMD Ryzen 5 7535HS",
+                "gpu":"Radeon RX 6550M",
+                "ram":"8 GB DDR5",
+                "price":23900,
+                "image":"https://notebookspec.com/resize/200x150//storage/notebook/13152-c.jpg"
+            },
+            {
+                "notebook_name": "MSI Bravo 15 C7UDX-260TH",
+                "cpu":"AMD Ryzen 5 7535HS",
+                "gpu":"GeForce RTX 3050",
+                "ram":"16 GB DDR5",
+                "price":28900,
+                "image":"https://notebookspec.com/resize/200x150//storage/notebook/13151-c.jpg"
+            },
+            {
+                "notebook_name": "Asus TUF Gaming A15 FA507RM-HN082W",
+                "cpu":"AMD Ryzen 7 6800H",
+                "gpu":"GeForce RTX 3060",
+                "ram":"16 GB DDR5",
+                "price":30990,
+                "image":"https://notebookspec.com/resize/200x150//storage/notebook/13146-notebook_11911_Tuf%20A15%20mecha%20grey-c.jpg"
+            },
+            {
+                "notebook_name": "Lenovo LOQ 15IRH8-82XV00N3TA",
+                "cpu":"Intel Core i5-12450H",
+                "gpu":"GeForce RTX 2050",
+                "ram":"16 GB DDR5",
+                "price":27990,
+                "image":"https://notebookspec.com/resize/200x150//storage/notebook/13136-c.jpg"
+            },
+            {
+                "notebook_name": "Asus TUF Gaming F15 FX506HE-HN018W",
+                "cpu":"Intel Core i7-11800H",
+                "gpu":"GeForce RTX 3050 Ti",
+                "ram":"8 GB DDR4",
+                "price":26990,
+                "image":"https://notebookspec.com/resize/200x150//storage/notebook/13132-notebook_11846_TUF%20F15%20FX506%20black-c.jpg"
+            },
+            {
+                "notebook_name": "Lenovo IdeaPad Gaming 3 15ACH6-82K2027UTA",
+                "cpu":"AMD Ryzen 5 5500H",
+                "gpu":"GeForce RTX 2050",
+                "ram":"16 GB DDR4",
+                "price":24990,
+                "image":"https://notebookspec.com/resize/200x150//storage/notebook/13128-notebook_11893_Ideapad%20gaming%2015ach6-c.jpg"
+            },
+            {
+                "notebook_name": "MSI Katana 15 B12VGK-1639TH",
+                "cpu":"Intel Core i5-12450H",
+                "gpu":"GeForce RTX 4070",
+                "ram":"16 GB DDR5",
+                "price":46900,
+                "image":"https://notebookspec.com/resize/200x150//storage/notebook/13127-c.jpg"
+            },
+            {
+                "notebook_name": "MSI Katana 15 B12VGK-1638TH",
+                "cpu":"Intel Core i7-12650H",
+                "gpu":"GeForce RTX 4070",
+                "ram":"16 GB DDR5",
+                "price":49900,
+                "image":"https://notebookspec.com/resize/200x150//storage/notebook/13126-c.jpg"
+            }
+    ]
+}
